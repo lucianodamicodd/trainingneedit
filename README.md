@@ -1,2 +1,3 @@
 # trainingneedit
 training
+read me 
